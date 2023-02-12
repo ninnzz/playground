@@ -14,3 +14,4 @@ start
 .idea
 
 .pytest_cache
+read_speakers.py
