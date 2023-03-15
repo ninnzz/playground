@@ -8,6 +8,7 @@ authors = ["ninz <nreclarin@gmail.coml>"]
 python = "^3.10"
 jupyter = "^1.0.0"
 numpy = "^1.23.1"
+matplotlib = "^3.7.1"
 
 [tool.poetry.dev-dependencies]
 
